@@ -28,3 +28,4 @@ C:\Users\alex1\Desktop\Proy_NetCore\SegundoProyecto\Portafolio\Portafolio\obj\De
 C:\Users\alex1\Desktop\Proy_NetCore\SegundoProyecto\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
 C:\Users\alex1\Desktop\Proy_NetCore\SegundoProyecto\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
 C:\Users\alex1\Desktop\Proy_NetCore\SegundoProyecto\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\alex1\Desktop\Proy_NetCore\SegundoProyecto\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.sourcelink.json
